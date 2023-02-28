@@ -1,5 +1,5 @@
 not created:
-character- health and stamina bar, move, attack, records the lives of the player
+
 enemy- multiple enemies
 spritesheet- enter the requirements to get the right sprites to move
 obstacle- walls and floors which will prevent the charcter to move to the other side of them
@@ -9,5 +9,8 @@ interaction- tracks when the the charcter interacts with the enviroment
 main- this will start the game and let the user end the game and save as well
 
 
+
+Template:
+character- health and stamina bar, move, attack, records the lives of the player
 
 created:
